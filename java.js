@@ -1,1 +1,1 @@
-alert("Rakesh");
+console.log("Rakesh");
